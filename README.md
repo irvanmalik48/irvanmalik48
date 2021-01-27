@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Instagram-cornflowerblue?style=for-the-badge&logo=instagram&labelColor=darkslategray&logoColor=white" alt="Instagram">
   </a> 
   <a href="https://t.me/irvanmalik48">
-    <img src="https://img.shields.io/badge/-Telegram-cornflowerblue?style=for-the-badge&logo=telegram&labelColor=darkslategray&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-cornflowerblue?style=for-the-badge&logo=https://simpleicons.org/icons/telegram.svg&labelColor=darkslategray&logoColor=white" alt="Telegram">
   </a>
 </p>
 
