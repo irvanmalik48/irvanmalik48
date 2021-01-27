@@ -1,8 +1,9 @@
 <h1 align="center">Irvan Malik</h1>
-===
-<b>Informatics Student, Technology Enthusiast, and a normal human</b>
-<br>
-<samp>#C/C++ #Java #Python #HTML5 #CSS3</samp>
+<p align="center">
+  <b>Informatics Student, Technology Enthusiast, and a normal human</b>
+  <br>
+  <samp>#C/C++ #Java #Python #HTML5 #CSS3</samp>
+</p>
 <p align="center">
   <a href="mailto:irvanmalik48@gmail.com">
     <img src="https://img.shields.io/badge/-Email-grey?style=labelColor=white" alt="Email">
