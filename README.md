@@ -1,4 +1,4 @@
-<h1 align="center">Irvan Malik | <strike>Lappland</strike></h1>
+<h1 align="center">Irvan Malik // <strike>Lappland</strike></h1>
 <p align="center">
   <b>Informatics Student, Technology Enthusiast, and a normal human</b>
   <br>
