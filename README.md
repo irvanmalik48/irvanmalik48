@@ -6,13 +6,13 @@
 </p>
 <p align="center">
   <a href="mailto:irvanmalik48@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=google&labelColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=google" alt="Email">
   </a>
   <a href="https://www.instagram.com/irvann48_">
-    <img src="https://img.shields.io/badge/-Instagram-405de6?style=for-the-badge&logo=instagram&labelColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-405de6?style=for-the-badge&logo=instagram" alt="Instagram">
   </a> 
   <a href="https://t.me/irvanmalik48">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&labelColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </p>
 
