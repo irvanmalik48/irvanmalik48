@@ -2,6 +2,7 @@
 <p align="center">
   <b>Informatics Student, Technology Enthusiast, and a normal human</b>
   <br>
+  <br>
   <samp>#C/C++ #Java #Python #HTML5 #CSS3</samp>
 </p>
 <p align="center">
