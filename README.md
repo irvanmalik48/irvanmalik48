@@ -3,7 +3,7 @@
   <b>Informatics Student, Technology Enthusiast, and a normal human</b>
   <br>
   <br>
-  <samp>#C/C++ #Java #Python #HTML5 #CSS3</samp>
+  <samp>#C/C++ #Java #Python #Go #HTML5 #CSS3</samp>
 </p>
 <p align="center">
   <a href="mailto:irvanmalik48@gmail.com">
