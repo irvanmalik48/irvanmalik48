@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&labelColor=2d2d2d" alt="Gmail">
   </a>
   <a href="https://www.instagram.com/irvann48_">
-    <img src="https://img.shields.io/badge/-Insta-mediumvioletred?style=for-the-badge&logo=Instagram&labelColor=2d2d2d" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=Instagram&labelColor=2d2d2d" alt="Instagram">
   </a> 
   <a href="https://t.me/irvanmalik48">
-    <img src="https://img.shields.io/badge/-Tele-blue?style=for-the-badge&logo=Telegram&labelColor=2d2d2d" alt="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=2d2d2d" alt="Telegram">
   </a>
 </p>
 
