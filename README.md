@@ -3,7 +3,7 @@
   <b>Informatics Student, Technology Enthusiast, and a normal human</b>
   <br>
   <br>
-  <samp>#C/C++ #Java #Python #Go #HTML5 #CSS3</samp>
+  <samp></samp>
 </p>
 <p align="center">
   <a href="mailto:lappland@rape.lol">
