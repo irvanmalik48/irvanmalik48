@@ -3,7 +3,7 @@
   <b>Informatics Student, Technology Enthusiast, and a normal human</b>
   <br>
   <br>
-  <samp></samp>
+  <samp>#GNU/Weeb</samp>
 </p>
 <p align="center">
   <a href="mailto:lappland@rape.lol">
