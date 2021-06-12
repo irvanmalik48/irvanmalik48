@@ -1,9 +1,14 @@
-<h1 align="center">Irvan Malik // <strike>Lappland</strike></h1>
+<h1 align="center">Hi! I'm Irvan Malik.</h1>
 <p align="center">
-  <b>Informatics Student, Technology Enthusiast, and a normal human</b>
+  <b>Informatics student, technology enthusiast, and a normal human</b>
   <br>
   <br>
   <samp>#GNU/Weeb</samp>
+</p>
+<p align="center">
+
+![huh](https://github-readme-stats.vercel.app/api?username=irvanmalik48&show_icons=true&theme=dark)
+  
 </p>
 <p align="center">
   <a href="mailto:lappland@rape.lol">
