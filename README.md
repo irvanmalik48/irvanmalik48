@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Irvan Malik.</h1>
-<p align="center">
+# Hi! I'm Irvan Malik.
+<p>
   <b>Informatics student, technology enthusiast, and a normal human</b>
   <br>
   <br>
@@ -10,7 +10,7 @@
 ![huh](https://github-readme-stats.vercel.app/api?username=irvanmalik48&show_icons=true&theme=dark)
   
 </p>
-<p align="center">
+<p>
   <a href="mailto:lappland@rape.lol">
     <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Mail.Ru&labelColor=2d2d2d" alt="Email">
   </a>
