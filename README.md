@@ -1,16 +1,15 @@
-<br/><br/>
+<br/>
 
 <p align="center">
 
 <samp>
-  the devil asked me how i knew my way around the halls of hell.
-  <br/>
-  i didn't need any map for the darkness i know so well.
+  "And those who were seen dancing were thought to be insane by those who could not hear the music."<br/>
+  Friedrich Nietzsche
 </samp>
   
 </p>
 
-<br/><br/>
+<br/>
 
 <!--
 **irvanmalik48/irvanmalik48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
