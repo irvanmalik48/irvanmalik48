@@ -10,7 +10,3 @@
 </p>
 
 <br/>
-
-[![Uh huh](https://activity-graph.herokuapp.com/graph?username=irvanmalik48&theme=github-dark&hide_border=true)](https://github.com/irvanmalik48)
-
-<br/>
